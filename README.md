@@ -4,4 +4,7 @@
 
 Read Plantos Presentation.pdf for a quick overview of the project proposal
 
+- Arduino
+- Processing
+
 Integrated digital and physical interactive game for children to learn about responsibilities by taking care of a plant.
